@@ -1,5 +1,5 @@
-=== DirtySuds - Embed RSS ===
-Contributors: pathawks
+=== Embed RSS ===
+Contributors: dirtysuds, pathawks
 Donate link: http://www.pathawks.com/p/wordpress-plugins.html
 Tags: plugins, wordpress, embed, eombed, rss
 Requires at least: 2.7
